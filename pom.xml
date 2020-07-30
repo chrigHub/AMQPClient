@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>jku.bac.amqp</groupId>
-	<artifactId>Client</artifactId>
+	<artifactId>AMQPClient</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Client</name>
+	<name>AMQPClient</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
